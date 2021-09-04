@@ -1,0 +1,2 @@
+# huawei
+static web;
